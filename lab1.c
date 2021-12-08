@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main()
 {
-	int a;
+	int a; // целочисленный
 	float b;
 	scanf("%d %f",&a,&b);
 	printf("%d %f",a,b);
